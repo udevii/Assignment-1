@@ -14,3 +14,8 @@ The tools that are installed with this devcontainer are:
 
 # For Students
 If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+
+# Project Description 
+* A name,
+* A description of the problem that this application will solve
+* An explanation about who the primary user of this application would be once you have released it.
